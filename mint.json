@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Stock.App MS",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -32,6 +32,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name":"New Docs",
+      "url":"new-agentgpt-docs"
     }
   ],
   "anchors": [
@@ -48,6 +52,11 @@
     {
       "name": "Blog",
       "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "Version",
+      "icon": "github",
       "url": "https://mintlify.com/blog"
     }
   ],
